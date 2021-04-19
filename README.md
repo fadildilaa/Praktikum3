@@ -1,9 +1,9 @@
 # Praktikum3
 Belajar layout sederhana
-1. Menambahkan layout untuk menu about
-gambar : screenshoot/l1.png
-		screenshoot/l2.png
+#####1. Menambahkan layout untuk menu about
+![Gambar 1](Screenshoot/l1.png)
+![Gambar 2](Screenshoot/l2.png)
 		
-2. Menambahkan layout untuk menu contact
-gambar : screenshoot/l3.png
-		screenshoot/l4.png
+######2. Menambahkan layout untuk menu contact
+![Gambar 1](Screenshoot/l3.png)
+![Gambar 2](Screenshoot/l4.png)
