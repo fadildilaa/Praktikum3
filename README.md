@@ -1,9 +1,13 @@
 # Praktikum3
-Belajar layout sederhana
-#####1. Menambahkan layout untuk menu about
-![Gambar 1](Screenshoot/l1.png)
-![Gambar 2](Screenshoot/l2.png)
+##Belajar layout sederhana
+
+##### Nama : NUR FADILAH
+##### NIM : 311910672
+
+#####1.Menambahkan layout untuk menu about
+![Gambar 1](screenshoot/l1.png)
+![Gambar 2](screenshoot/l2.png)
 		
-######2. Menambahkan layout untuk menu contact
-![Gambar 1](Screenshoot/l3.png)
-![Gambar 2](Screenshoot/l4.png)
+######2. Menambahkan layout untuk menu kontak
+![Gambar 1](screenshoot/l3.png)
+![Gambar 2](screenshoot/l4.png)
